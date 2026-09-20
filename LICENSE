@@ -1,0 +1,104 @@
+# HPH — Educational Security Research License
+
+Copyright (c) 2026 Aswajith
+GitHub: https://github.com/im-aswajith
+
+## 1. Grant of Permission
+
+Permission is granted to use, study, copy, modify, and distribute this software and its source code **solely for lawful purposes**, including:
+
+* Personal education and learning
+* Academic research
+* Authorized security research
+* Authorized penetration testing
+* Defensive security analysis
+* Laboratory and sandbox environments
+* Development and testing on systems owned by, or explicitly authorized by, the user
+
+Any use of this software must comply with all applicable laws, regulations, contracts, and organizational policies.
+
+## 2. Prohibited Use
+
+This software, including modified or derived versions, **must not be used** to:
+
+* Deploy or conceal malware, ransomware, spyware, or other malicious software
+* Evade, bypass, disable, or defeat security controls without authorization
+* Gain unauthorized access to systems, networks, accounts, devices, or data
+* Conceal unauthorized code or malicious payloads
+* Facilitate credential theft, data theft, persistence, or unauthorized surveillance
+* Conduct attacks against systems or individuals without explicit authorization
+* Circumvent security mechanisms for unlawful purposes
+* Distribute or deploy protected payloads for malicious activity
+
+Using this software for security research does not provide authorization to test systems that you do not own or have explicit permission to test.
+
+## 3. Modification and Distribution
+
+You may modify and distribute copies of this software for permitted purposes provided that:
+
+1. This license remains included with the software.
+2. The original copyright notice remains intact.
+3. Modified versions clearly state that they have been modified.
+4. You do not represent modified versions as the original project.
+5. The restrictions in this license continue to apply to the modified or derived work.
+
+## 4. Attribution
+
+When redistributing this project or substantial portions of it, retain the following attribution:
+
+> HPH — Hardened Multi-Layer Educational Payload Hider
+> Copyright (c) 2026 Aswajith
+> https://github.com/im-aswajith
+
+## 5. No Warranty
+
+THE SOFTWARE IS PROVIDED **"AS IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+THE AUTHOR DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SECURITY, RELIABILITY, ACCURACY, OR NON-INFRINGEMENT.
+
+The author does not guarantee that the software or generated output will be:
+
+* Secure
+* Undetectable
+* Unbreakable
+* Irreversible
+* Resistant to reverse engineering
+* Resistant to memory analysis
+* Compatible with every operating system or environment
+
+## 6. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM THE USE, MISUSE, MODIFICATION, DISTRIBUTION, OR INABILITY TO USE THIS SOFTWARE.
+
+The user assumes full responsibility for how the software is used.
+
+## 7. Security Research Disclaimer
+
+This project is intended to support **education, laboratory experimentation, and authorized security research**.
+
+The presence of security-related functionality does not grant permission to use the software against third-party systems.
+
+Users are solely responsible for obtaining appropriate authorization before conducting any security testing.
+
+## 8. No Endorsement
+
+Use of this software by any individual, organization, or security researcher does not imply endorsement, partnership, sponsorship, or affiliation with the author.
+
+## 9. License Termination
+
+Any rights granted under this license terminate automatically if the software is used in violation of the terms above.
+
+Upon termination, the user must cease using and distributing the software and any unauthorized derivative versions.
+
+## 10. Governing Law
+
+This license shall be interpreted according to applicable laws and regulations. Nothing in this license grants permission to violate any applicable law or regulation.
+
+---
+
+**Project:** HPH — Hardened Multi-Layer Educational Payload Hider
+**Author:** Aswajith
+**GitHub:** https://github.com/im-aswajith
+**Copyright:** © 2026 Aswajith
+
+**Educational • Authorized Research • Defensive Security**
